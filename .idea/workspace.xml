@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c962fc51-51fd-49b2-bfb9-70ad0ff9f2d7" name="Changes" comment="feat : solve some recursion problems">
+      <change afterPath="$PROJECT_DIR$/dsa-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/Level_1/SumOfSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +28,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Ishant8287/dsa-java.git&quot;,
-    &quot;accountId&quot;: &quot;8c3a0293-60b5-41e6-b0ff-5b470a48f427&quot;
+    &quot;accountId&quot;: &quot;b6435919-6aee-411b-9b90-d6f211d9aad1&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -37,19 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.PrintAllNumbersFromOneToNButOnlyEvenNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ISHANT SINGH/Desktop/dsa-java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PrintAllNumbersFromOneToNButOnlyEvenNumbers.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ISHANT SINGH/Desktop/dsa-java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ISHANT SINGH\Desktop\dsa-java" />
@@ -92,6 +99,9 @@
       <updated>1772943483032</updated>
       <workItem from="1773231255011" duration="142000" />
       <workItem from="1773241147410" duration="6000" />
+      <workItem from="1773589057140" duration="148000" />
+      <workItem from="1774073102153" duration="89000" />
+      <workItem from="1774155080765" duration="371000" />
     </task>
     <task id="LOCAL-00001" summary="feat : remove idea and out folder">
       <option name="closed" value="true" />
@@ -109,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773157375797</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat : solve some recursion problems">
+      <option name="closed" value="true" />
+      <created>1773589197113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773589197113</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
