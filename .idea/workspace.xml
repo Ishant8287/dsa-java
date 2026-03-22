@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c962fc51-51fd-49b2-bfb9-70ad0ff9f2d7" name="Changes" comment="feat : solve some recursion problems">
-      <change afterPath="$PROJECT_DIR$/dsa-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/Level_1/SumOfSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +48,18 @@
     "Application.PrintAllNumbersFromOneToNButOnlyEvenNumbers.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ISHANT SINGH/Desktop/dsa-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -85,8 +94,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
@@ -102,6 +111,7 @@
       <workItem from="1773589057140" duration="148000" />
       <workItem from="1774073102153" duration="89000" />
       <workItem from="1774155080765" duration="371000" />
+      <workItem from="1774155603071" duration="558000" />
     </task>
     <task id="LOCAL-00001" summary="feat : remove idea and out folder">
       <option name="closed" value="true" />
