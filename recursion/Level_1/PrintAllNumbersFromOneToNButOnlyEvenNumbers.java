@@ -1,7 +1,7 @@
 package Level_1;
 
 public class PrintAllNumbersFromOneToNButOnlyEvenNumbers {
-    static void main() {
+    void main() {
         EvenNumbers(10);
     }
 

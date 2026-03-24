@@ -2,7 +2,7 @@ package Level_1;
 
 //Time Complexity	O(2ⁿ)
 //Space Complexity	O(n) (recursion stack)
-public class PrintFibonacciSeries {
+public class SumOfFibonacciSeries {
     static void main() {
         System.out.println(Fib(10));
     }

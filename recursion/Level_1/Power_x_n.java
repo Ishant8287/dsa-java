@@ -32,7 +32,7 @@ public class Power_x_n {
     }
 
     static double myPow(double x, int n) {
-        // If exp becomes 0 then return 1 this is the base case her
+        // If exp becomes 0 then return 1 this is the base case here
         if (n == 0) return 1;
 
         //If n means exp is neg then simply make x as 1/x and n as -n
