@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c962fc51-51fd-49b2-bfb9-70ad0ff9f2d7" name="Changes" comment="feat : I learn pre in post concept and solve tower of hanoi problem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Level_2/UniquePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/Lecture_10(Array).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/BinarySearchDesc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/FirstAndLastOccurence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/FirstOccurence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/FloorInASortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/FloorSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/LastOccurence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/MaxAvgSubArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/PeakInMountainArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/RangeFirstAndLast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/RotateArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/SearchInASortedMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/SearchInRotatedarrayDuplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/SearchInSortedRotatedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/SingleAmongDoubles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/SplitArrayInLargestSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/Sqrt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/SwapTwoArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/maxAmtOFPosAndNegNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary-search/maxAmtOFPosAndNegNumUsingBS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsa-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dsa-java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsa-java/UniquePaths.class" beforeDir="false" />
-    </list>
+    <list default="true" id="c962fc51-51fd-49b2-bfb9-70ad0ff9f2d7" name="Changes" comment="feat : Revised binary search -&gt; Normal questions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +141,7 @@
       <workItem from="1774432612232" duration="1011000" />
       <workItem from="1774498918825" duration="4509000" />
       <workItem from="1774508545641" duration="16000" />
-      <workItem from="1774573567548" duration="6475000" />
+      <workItem from="1774573567548" duration="6810000" />
     </task>
     <task id="LOCAL-00001" summary="feat : remove idea and out folder">
       <option name="closed" value="true" />
@@ -225,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774507987851</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat : Revised binary search -&gt; Normal questions">
+      <option name="closed" value="true" />
+      <created>1774596331185</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774596331186</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +219,7 @@
     <MESSAGE value="feat : Start some medium level problms like subset problem and learn how to include and exclude and before jumping to this I revise my basic concepts as always." />
     <MESSAGE value="feat : Solve subset problem ." />
     <MESSAGE value="feat : I learn pre in post concept and solve tower of hanoi problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : I learn pre in post concept and solve tower of hanoi problem" />
+    <MESSAGE value="feat : Revised binary search -&gt; Normal questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : Revised binary search -&gt; Normal questions" />
   </component>
 </project>
