@@ -6,7 +6,7 @@ import java.util.*;
 //Lc 22
 public class GenerateParenthesis {
     static void main() {
-        int n = 1;
+        int n = 3;
         List<String> ans = new ArrayList<>();
         helper("", 0, 0, ans, n);
         System.out.print(ans);
