@@ -6,6 +6,7 @@ import java.util.*;
 public class SubsetsII {
     static void main() {
         int[] nums = {1, 2, 2};
+        Arrays.sort(nums);
         List<List<Integer>> result = new ArrayList<>();
         subsetNoDuplicate(nums, new ArrayList<>(), 0, result);
         Collections.sort(result, (a, b) -> a.size() - b.size());
@@ -14,21 +15,29 @@ public class SubsetsII {
     }
 
     static void subsetNoDuplicate(int[] arr, List<Integer> list, int index, List<List<Integer>> result) {
-        result.add(new ArrayList<>(list));
-
-        for (int i = index; i < arr.length; i++) {
-            //Check duplicate
-            if (i > index && arr[i] == arr[i - index]) {
-                continue;
-            }
-
-            //include
-            list.add(arr[i]);
-            subsetNoDuplicate(arr, list, index + 1, result);
-
-            //Backtrack
-            list.remove(list.size() - 1);
+        //base case
+        if (index == arr.length) {
+            result.add(new ArrayList<>(list));
+            return;
         }
+
+        //include
+        list.add(arr[index]);
+        subsetNoDuplicate(arr, list, index + 1, result);
+
+        //exclude
+        list.remove(list.size() - 1);
+
+        //Check duplicate
+        int i = index + 1;
+        while (i < arr.length && arr[i] == arr[i - 1]) {
+            i++;
+        }
+
+
+        //backtrack
+        subsetNoDuplicate(arr, list, index + 1, result);
+
     }
 
 }
