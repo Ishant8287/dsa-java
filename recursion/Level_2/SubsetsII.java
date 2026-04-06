@@ -29,9 +29,11 @@ public class SubsetsII {
         list.remove(list.size() - 1);
 
         //Check duplicate
-        int i = index + 1;
-        while (i < arr.length && arr[i] == arr[i - 1]) {
-            i++;
+        for(int i = index ; i < arr.length ; i++){
+            if(i > index && arr[i] == arr[index]){
+                continue;
+            }
+            //list.add
         }
 
 
