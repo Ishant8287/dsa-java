@@ -10,6 +10,7 @@ Structured DSA practice in Java following a pattern-based approach.
 - Binary Search
 - Recursion
 - Backtracking
+- Linked List
 
 ## Structure
 
@@ -21,6 +22,7 @@ src/
 ├── binary-search/
 ├── recursion/
 └── backtracking/
+└── linked-list/
 ```
 
 ## Platform
