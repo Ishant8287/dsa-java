@@ -1,57 +1,34 @@
-# DSA Practice in Java
+# DSA in Java
 
-This repository contains my daily **Data Structures and Algorithms practice in Java**.
-The goal is to improve problem-solving skills and build consistency for technical interviews.
+Structured DSA practice in Java following a pattern-based approach.
 
----
+## Patterns Covered
 
-## 📚 Topics Covered
+- Arrays & Hashing
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Recursion
+- Backtracking
+- Linked List
 
-* Arrays
-* Binary Search
-* Recursion
-* Two Pointers
-* Sliding Window
-* Sorting
-* Strings
-
-More topics will be added as I continue solving problems.
-
----
-
-## 📂 Repository Structure
+## Structure
 
 ```
-dsa-java
-│
-├── arrays
-├── binary-search
-├── recursion
-├── sliding-window
-├── sorting
-├── strings
-└── two-pointers
-└── recursion
+src/
+├── arrays/
+├── sliding-window/
+├── two-pointers/
+├── binary-search/
+├── recursion/
+└── backtracking/
+└── linked-list/
 ```
 
-Each folder contains Java implementations of problems related to that pattern.
+## Platform
 
----
+LeetCode — solutions with approach notes where needed.
 
-## 🎯 Goal
+## Status
 
-* Solve problems consistently
-* Understand problem-solving patterns
-* Prepare for technical interviews
-
----
-
-## 🛠 Language Used
-
-* Java
-
----
-
-## 👨‍💻 Author
-
-**Ishant Singh**
+Actively updated as new patterns are completed.
